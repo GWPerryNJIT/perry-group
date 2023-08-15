@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Perry **Research **Group leads several research projects studying ionospheric plasma dynamics, radar diagnosting and remote sensing, and magnetosphere-ionosphere-thermosphere coupling research. The Perry Group is of the Center for Solar-Terrestrial Research and the Institute for Space Weather Science at the New Jersey Institute of Technology.
   
   - block: collection
     content:
