@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Perry **Research **Group leads several research projects studying ionospheric plasma dynamics, radar diagnosting and remote sensing, and magnetosphere-ionosphere-thermosphere coupling research. The Perry Group is of the Center for Solar-Terrestrial Research and the Institute for Space Weather Science at the New Jersey Institute of Technology.
+        The **Perry** **Research** **Group** conducts research in ionospheric plasma dynamics, radar diagnostics and remote sensing, and magnetosphere-ionosphere-thermosphere coupling physics. The Perry Group part is of the Center for Solar-Terrestrial Research and the Institute for Space Weather Science at the New Jersey Institute of Technology and was founded in 2019.
   
   - block: collection
     content:
