@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Perry
         Research Group
       image:
         filename: welcome.jpg
